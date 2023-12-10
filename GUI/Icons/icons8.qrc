@@ -1,0 +1,87 @@
+<RCC>
+  <qresource prefix="CommonActions">
+    <file>télécharger-vers-le-cloud.svg</file>
+    <file>undelete.svg</file>
+    <file>effacer (1).svg</file>
+    <file>poubelle.svg</file>
+    <file>partager (1).svg</file>
+    <file>partager-3.svg</file>
+    <file>partager.svg</file>
+    <file>redémarrer.svg</file>
+    <file>remove-bookmark.svg</file>
+    <file>rafraîchir.svg</file>
+    <file>plus.svg</file>
+    <file>ok.svg</file>
+    <file>pas-de-synchronisation.svg</file>
+    <file>favorites.svg</file>
+    <file>modifier.svg</file>
+    <file>télécharger-depuis-le-cloud.svg</file>
+    <file>delete-bookmark.svg</file>
+    <file>supprimer.svg</file>
+    <file>partager-2.svg</file>
+    <file>ruban-marque-page.svg</file>
+    <file>signet.svg</file>
+    <file>add-bookmark.svg</file>
+    <file>synchroniser.svg</file>
+    <file>coche.svg</file>
+    <file>effacer.svg</file>
+  </qresource>
+  <qresource prefix="Documents">
+    <file>scroll.svg</file>
+    <file>image.svg</file>
+    <file>dossier-ouvert.svg</file>
+    <file>fichier-image.svg</file>
+    <file>dossier (1).svg</file>
+    <file>dossier.svg</file>
+    <file>fichier.svg</file>
+    <file>document.svg</file>
+  </qresource>
+  <qresource prefix="Settings">
+    <file>support.svg</file>
+    <file>paramètres.svg</file>
+    <file>services.svg</file>
+    <file>puzzle.svg</file>
+  </qresource>
+  <qresource prefix="Status">
+    <file>décocher-tous.svg</file>
+    <file>annuler-2.svg</file>
+    <file>case-cochée.svg</file>
+    <file>ouvrir.svg</file>
+    <file>cadenas.svg</file>
+    <file>horloge (1).svg</file>
+    <file>horloge.svg</file>
+    <file>vérifié.svg</file>
+    <file>cochez-toutes-les.svg</file>
+    <file>annuler.svg</file>
+  </qresource>
+  <qresource prefix="Sections">
+    <file>nouvelles.svg</file>
+    <file>menu (1).svg</file>
+    <file>menu.svg</file>
+    <file>info.svg</file>
+    <file>accueil.svg</file>
+    <file>lien-externe.svg</file>
+    <file>contacts.svg</file>
+    <file>mallette.svg</file>
+    <file>boîte.svg</file>
+    <file>information.svg</file>
+  </qresource>
+  <qresource prefix="Other">
+    <file>x2.svg</file>
+    <file>utilisateur-masculin.svg</file>
+    <file>caisse-à-outils.svg</file>
+    <file>soleil.svg</file>
+    <file>bulle.svg</file>
+    <file>chercher.svg</file>
+    <file>cercle-non-coché.svg</file>
+    <file>musique.svg</file>
+    <file>boîte-aux-lettres-fermée-vide.svg</file>
+    <file>clé.svg</file>
+    <file>idée.svg</file>
+    <file>curseur-main.svg</file>
+    <file>pour-vous.svg</file>
+    <file>utilisateur-femme.svg</file>
+    <file>curseur.svg</file>
+    <file>jumelles.svg</file>
+  </qresource>
+</RCC>
