@@ -2,9 +2,9 @@
   <qresource prefix="CommonActions">
     <file>télécharger-vers-le-cloud.svg</file>
     <file>undelete.svg</file>
-    <file>effacer (1).svg</file>
+    <file>effacer-1.svg</file>
     <file>poubelle.svg</file>
-    <file>partager (1).svg</file>
+    <file>partager-1.svg</file>
     <file>partager-3.svg</file>
     <file>partager.svg</file>
     <file>redémarrer.svg</file>
@@ -31,7 +31,7 @@
     <file>image.svg</file>
     <file>dossier-ouvert.svg</file>
     <file>fichier-image.svg</file>
-    <file>dossier (1).svg</file>
+    <file>dossier-1.svg</file>
     <file>dossier.svg</file>
     <file>fichier.svg</file>
     <file>document.svg</file>
@@ -48,7 +48,7 @@
     <file>case-cochée.svg</file>
     <file>ouvrir.svg</file>
     <file>cadenas.svg</file>
-    <file>horloge (1).svg</file>
+    <file>horloge-1.svg</file>
     <file>horloge.svg</file>
     <file>vérifié.svg</file>
     <file>cochez-toutes-les.svg</file>
@@ -56,7 +56,7 @@
   </qresource>
   <qresource prefix="Sections">
     <file>nouvelles.svg</file>
-    <file>menu (1).svg</file>
+    <file>menu-1.svg</file>
     <file>menu.svg</file>
     <file>info.svg</file>
     <file>accueil.svg</file>
